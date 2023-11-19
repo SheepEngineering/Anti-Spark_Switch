@@ -1,4 +1,6 @@
 # Anti Spark Switch
+Clonned on 19 Nov 2023
+
 Personal improvements/changes to the vedder antispark switch
 
 Design allows for a battery to be connected to a source without the usual spark in the connector, also provides a convenient on off ability.
